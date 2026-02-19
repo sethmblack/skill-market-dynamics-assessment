@@ -4,7 +4,7 @@ description: Analyze how a market functions, identify distortions, and predict p
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4442
+  version: 1.0.4443
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - market-dynamics-assessment
