@@ -3,8 +3,9 @@ name: market-dynamics-assessment
 description: Analyze how a market functions, identify distortions, and predict price and quantity movements.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4442
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - market-dynamics-assessment
 - writing
